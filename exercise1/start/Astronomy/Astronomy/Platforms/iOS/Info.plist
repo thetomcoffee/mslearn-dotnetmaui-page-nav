@@ -30,5 +30,7 @@
 	<string>Assets.xcassets/appicon.appiconset</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>We need your location to properly display sunrise info</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Always and in usage permissions</string>
 </dict>
 </plist>
